@@ -5,8 +5,6 @@ medio de diferencias finitas**
 Bogotá, Colombia.*  
 13/06/2023
 
-</div>
-
 *Email: mangarciama@unal.edu.co<sup>1</sup>, mgarciamej@unal.edu.co<sup>2</sup>*  
 
 **Abstract**
@@ -14,22 +12,11 @@ The present text presents a numerical approach for solving the diffusion equatio
 
 *Keywords: numerical approach, diffusion equation, finite differences, Fick's law, discretization, simulation.*
 
-If you want to read the whole paper please go to [ecuacion_difusion.pdf](ecuacion_difusion.pdf) (spanish).
+Complete paper: [ecuacion_difusion.pdf](assets/ecuacion_difusion.pdf) (Spanish).
 
 **Resumen**  
-En el presente texto se presenta un enfoque numérico para la resolución
-de la ecuación de difusión utilizando diferencias finitas. Se utiliza la
-primera ley de Fick para establecer la relación entre el flujo y el
-gradiente de concentración. Mediante la discretización de la ecuación,
-se divide el espacio y el tiempo en una malla de puntos y se aproximan
-las derivadas parciales. Esto conduce a un sistema de ecuaciones
-lineales que describe la evolución de la concentración a lo largo del
-tiempo. Los resultados demuestran que la aproximación numérica por
-diferencias finitas es una herramienta efectiva para simular procesos de
-difusión y transferencia de calor en diversas áreas científicas y
-tecnológicas.
+En el presente texto se presenta un enfoque numérico para la resolución de la ecuación de difusión utilizando diferencias finitas. Se utiliza la primera ley de Fick para establecer la relación entre el flujo y el gradiente de concentración. Mediante la discretización de la ecuación, se divide el espacio y el tiempo en una malla de puntos y se aproximan las derivadas parciales. Esto conduce a un sistema de ecuaciones lineales que describe la evolución de la concentración a lo largo del tiempo. Los resultados demuestran que la aproximación numérica por diferencias finitas es una herramienta efectiva para simular procesos de difusión y transferencia de calor en diversas áreas científicas y tecnológicas.
 
-*Palabras clave: enfoque numérico, ecuación de difusión, diferencias
-finitas, ley de Fick, discretización, simulación*
+*Palabras clave: enfoque numérico, ecuación de difusión, diferencias finitas, ley de Fick, discretización, simulación*
 
-Si quieres leer el articulo completo por favor ve a  [ecuacion_difusion.pdf](ecuacion_difusion.pdf).
+Artículo completo: [ecuacion_difusion.pdf](assets/ecuacion_difusion.pdf).
