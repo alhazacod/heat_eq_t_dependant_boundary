@@ -1,11 +1,11 @@
 **Implementación de la discretizacion de la ecuación de difusión por
 medio de diferencias finitas**  
-**M.A. Garcia**<sup>1</sup>, **M. García**<sup>2</sup>  
+**Manuel Garcia**<sup>1</sup>  
 *Departamento de Física, Universidad Nacional de Colombia, Sede Bogotá,
 Bogotá, Colombia.*  
 13/06/2023
 
-*Email: mangarciama@unal.edu.co<sup>1</sup>, mgarciamej@unal.edu.co<sup>2</sup>*  
+*Email: mangarciama@unal.edu.co<sup>1</sup>  
 
 **Abstract**
 The present text presents a numerical approach for solving the diffusion equation using finite differences. The first law of Fick is employed to establish the relationship between flux and concentration gradient. By discretizing the equation, space and time are divided into a grid of points, and partial derivatives are approximated. This leads to a system of linear equations that describes the evolution of concentration over time. The results demonstrate that the numerical approximation using finite differences is an effective tool for simulating diffusion and heat transfer processes in various scientific and technological fields.
