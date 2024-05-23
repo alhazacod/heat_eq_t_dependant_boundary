@@ -12,7 +12,7 @@ The present text presents a numerical approach for solving the diffusion equatio
 
 *Keywords: numerical approach, diffusion equation, finite differences, Fick's law, discretization, simulation.*
 
-Full paper: [ecuacion_difusion.pdf](assets/ecuacion_difusion.pdf) (Spanish).
+Full text: [ecuacion_difusion.pdf](assets/ecuacion_difusion.pdf) (Spanish).
 
 **Resumen**  
 En el presente texto se presenta un enfoque numérico para la resolución de la ecuación de difusión utilizando diferencias finitas. Se utiliza la primera ley de Fick para establecer la relación entre el flujo y el gradiente de concentración. Mediante la discretización de la ecuación, se divide el espacio y el tiempo en una malla de puntos y se aproximan las derivadas parciales. Esto conduce a un sistema de ecuaciones lineales que describe la evolución de la concentración a lo largo del tiempo. Los resultados demuestran que la aproximación numérica por diferencias finitas es una herramienta efectiva para simular procesos de difusión y transferencia de calor en diversas áreas científicas y tecnológicas.
